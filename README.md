@@ -15,40 +15,20 @@
 
 ## 🛠️ Tecnologías y Herramientas
 
-### 🔗 Plataformas de Integración
-- WSO2 (MI, EI, APIM, IS)
-- BizTalk Server
-- MuleSoft
+- 🔗 **Integración:** WSO2, BizTalk, MuleSoft  
+- 💻 **Lenguajes:** Java, C# (.NET), JavaScript, PHP  
+- ☁️ **Cloud & DevOps:** Azure, AWS, Azure DevOps, GitHub, CI/CD  
+- 🐳 **Contenedores:** Docker, Kubernetes, OpenShift  
+- ⚙️ **Otros:** Terraform, Microservicios, API First, EDA, EIP, Testing
 
-### 💻 Lenguajes de Programación
-- Java
-- C# (.NET)
-- JavaScript (React)
-- PHP
+## 🎓 Cursos y Certificaciones
 
-### ☁️ Cloud & DevOps
-- Microsoft Azure
-- AWS
-- Azure DevOps
-- GitHub
-- CI/CD Pipelines
-
-### 🐳 Contenedores & Orquestación
-- Docker
-- Kubernetes
-- OpenShift
-
-### 🗄️ Bases de Datos
-- SQL Server
-- Stored Procedures
-
-### ⚙️ Otras Herramientas y Enfoques
-- Terraform (Infraestructura como código)
-- Arquitectura de Microservicios
-- API First Design
-- Event-Driven Architecture (EDA)
-- Enterprise Integration Patterns (EIP)
-- Testing (Unitarias, Carga, Estrés)
+- ☁️ AWS Cloud Practitioner Essentials (2026)  
+- 🌐 Cloud Training – Betek (2026)  
+- ⚙️ Fundamentos en DevOps y Microservicios (2023)  
+- 📜 Scrum Foundation Professional Certificate – SFPC (2020)  
+- 💻 Fundamentos de Programación – SENA (2018)  
+- 📊 Excel Intermedio – SENA (2018)
 
 ## 🔗 Connect with me
 
